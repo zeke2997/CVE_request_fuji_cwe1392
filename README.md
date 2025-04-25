@@ -6,7 +6,7 @@ Vendor: Fuji Xerox
 
 Product: ApeosPort-IV 3065
 
-Firmware Version: CentreWare Internet Services Version 1.8
+Firmware Version:1.8
 
 ## Vulnerability Details
 The printer's web interface does not enforce any mandatory password change upon first use, nor does it disable the default administrative account (11111:x-admin). As a result, remote attackers can exploit this weakness to access privileged administrative functions, including but not limited to:
